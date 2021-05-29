@@ -1,0 +1,12 @@
+numpy
+pandas
+requests
+lxml
+xlrd
+openpyxl
+matplotlib
+bs4
+geos
+./package/pyproj-3.0.1-cp37-cp37m-win_amd64.whl
+./package/basemap-1.2.2-cp37-cp37m-win_amd64.whl
+

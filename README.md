@@ -1,4 +1,4 @@
-# PTT-NB-shopping-Trading-Crawler
+# PTT-Notebook-Trading-Crawler
 This is used to crawl and combine the data together.
 
-![Imgur](https://imgur.com/l8n98pR)
+![](https://i.imgur.com/qCDQmH1.png)
